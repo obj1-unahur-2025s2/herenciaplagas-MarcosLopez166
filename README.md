@@ -7,7 +7,7 @@ Vamos a armarlo por partes.
 
 ## Elementos que pueden ser atacados.
 
-El modelo incluye los posibles blancos de un ataque, a los que llamamos **elementos**. De cada elemento, nos interesa aber si es bueno o no para la vida de los humanos.
+El modelo incluye los posibles blancos de un ataque, a los que llamamos **elementos**. De cada elemento, nos interesa saber si es bueno o no para la vida de los humanos.
 Debemos contemplar estos elementos
 
 - **Hogar**  
