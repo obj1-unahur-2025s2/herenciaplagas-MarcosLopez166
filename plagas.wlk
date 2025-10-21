@@ -1,10 +1,12 @@
+import example.*
+
 class Plaga {
     var property poblacion
     method transmiteEnfermedades() = poblacion >= 10
     method aumentarPoblacion() {
         poblacion += poblacion / 10
     }
-    method atacar(unElemento) {
+    method atacar_(unElemento) {
         self.aumentarPoblacion()
         unElemento.plagarCon_(self)
     }
